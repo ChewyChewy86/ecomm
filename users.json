@@ -1,0 +1,19 @@
+[
+  {
+    "email": "trainguitar@gmail.com",
+    "password": "3f5076aeedef879ba66b99ba6834703042c50353bb12bb10a2c4b3a004a2bb01d42f9dd9ab359a616c9dc5662c2a9b4c6e410350bea03b29d3b0e6145d2b6500.ad4f0ccd6098cf4b",
+    "passwordConfirmation": "password",
+    "id": "317a0874"
+  },
+  {
+    "email": "test10@gmail.com",
+    "password": "bc7247b7f77fae660b73df304e568a8ad595c9f8f5d3ba90d2a9b6f135abac3796e10ca414cd236eb070f0333450da32b01f16af307bfd828dcfd8ba4c814965.5fab8b05b567af57",
+    "passwordConfirmation": "password",
+    "id": "f040b7c7"
+  },
+  {
+    "email": "maskedb@hotmail.com",
+    "password": "ef67f9ef87aebd3c196afe14bbb072870f049b7feedbe14e0a181bf906a1478e9b01cbd07e2a19e75349bc0656aca38b670983a779333c7d995017112e903a2d.6352a69013782b7b",
+    "id": "05ecf684"
+  }
+]
